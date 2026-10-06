@@ -74,7 +74,7 @@ $total_orders = count($orders);
                 </div>
             </div>
             <nav class="flex items-center gap-1 bg-slate-100 p-1 rounded-xl text-xs font-medium">
-                <a href="db.php" class="text-slate-600 px-3 py-1.5 hover:text-slate-900">ទូទៅ</a>
+                <a href="index.php" class="text-slate-600 px-3 py-1.5 hover:text-slate-900">ទូទៅ</a>
                 <a href="products.php" class="text-slate-600 px-3 py-1.5 hover:text-slate-900">ទំនិញ</a>
                 <a href="orders.php" class="bg-white text-blue-600 px-3 py-1.5 rounded-lg shadow-xs">បញ្ជាទិញ</a>
             </nav>
